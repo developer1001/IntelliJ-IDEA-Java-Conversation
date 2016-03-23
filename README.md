@@ -1,5 +1,8 @@
 # 群号：543286528 的公告
 
+<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8995229ff1870411fe876f186dd38797045028c38ae8547cd999f03b4202ff2d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IntelliJ IDEA高级群-Java" title="IntelliJ IDEA高级群-Java"></a>
+
+
 ## 群奢望目标
 
 做整理材料最多的群。
