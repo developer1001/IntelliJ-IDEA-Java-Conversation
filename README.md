@@ -103,6 +103,8 @@
 	- Blog：<https://tvzr.com/>
 	- Blog：<https://liyang.pro/>
 	- Github：<https://github.com/liyang8>
+- （M）MrRobot
+	- Blog：<http://chen-shang.github.io>
 - （N）南筏
 	- Blog：<https://my.oschina.net/u/3081965/blog>
 - （P）平凡的世界
@@ -143,7 +145,8 @@
 	- Blog：<http://www.itmuch.com/>
 	- Github：<http://github.com/eacdy>
 - （Y）YouMeek
-	- Blog：<http://www.YouMeek.com>
+	- Blog：<http://YouMeek.com>
+	- Blog：<http://GitNavi.com>
 	- Github：<https://github.com/judasn>
 - （Z）翟永超
 	- Blog：<http://blog.didispace.com>
