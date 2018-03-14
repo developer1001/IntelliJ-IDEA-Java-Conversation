@@ -38,3 +38,111 @@
 
 写申请邮件的时候，请保证邮件中含有满足条件的内容，比如：博客地址、开源项目地址等等。是否通过需要管理员评估，评估失败都不会有任何通知。
 
+## 群成员（根据字母排序）
+
+- （B）班纳睿
+	- Github：<https://github.com/binarywang>
+- （B）不听
+	- Github：<https://github.com/YiiGuxing>
+- （B）半城烟沙
+	- Github：<https://github.com/hulichao>
+- （B）半壶酒
+	- Github：<https://github.com/apt-getyou>
+- （B）冰做的风铃
+	- Github：<https://github.com/classloader>
+- （C）虫师
+	- Blog：<http://www.testclass.net/>
+- （C）船長
+	- Blog：<https://samzong.me>
+- （C）乘客
+	- Github：<https://github.com/chenxushao>
+- （C）茶饮
+	- Blog：<http://mrdear.cn>
+	- Github：<https://github.com/mrdear>
+- （C）陈谷子烂芝麻
+	- Github：<https://github.com/woshihoujinxin>
+	- Gitee：<https://gitee.com/houjinxin>
+- （C）Cherish life
+	- Github：<https://github.com/zhangdihong>
+- （D）嘟嘟MD
+	- Blog：<http://tengj.top/>
+	- Github：<https://github.com/tengj>
+- （D）Doug Li丶
+    - Github：<https://github.com/GourdErwa>
+- （G）过往记忆
+	- Blog：<https://www.iteblog.com/>
+- （H）豪情
+	- Github：<https://github.com/jsfront>
+- （H）herohuang
+	- Blog：<http://herohuang.com>
+- （I）I am Lsz
+	- Blog：<http://blog.csdn.net/imlsz>
+- （J）几笔成書
+	- Blog：<http://blog.guxiangfly.cn/>
+	- Github：<http://github.com/guxiangfly>
+- （J）叫我老陈行了吧
+	- Github：<https://github.com/cjuexuan>
+- （K）kerr
+	- Github：<https://github.com/hepin1989>
+- （L）Lindp
+	- Github：<https://github.com/Lindp>
+- （M）漠然
+	- Blog：<http://mazhuang.org/>
+	- Github：<https://github.com/mzlogin>
+- （M）Mr.Dragon
+	- Blog：<https://www.jianshu.com/u/ebeed951bd79>
+- （M）牧码人
+	- Blog：<www.racyan.top>
+- （M）麻醉了几天
+	- Blog：<http://www.cnblogs.com/liuconglin/>
+- （M）Maverick Pig
+	- Github：<https://github.com/luokd97>
+- （M）木子李
+	- Blog：<https://tvzr.com/>
+	- Blog：<https://liyang.pro/>
+	- Github：<https://github.com/liyang8>
+- （N）南筏
+	- Blog：<https://my.oschina.net/u/3081965/blog>
+- （P）平凡的世界
+	- Github：<https://github.com/ztx1491>
+- （Q）千橙
+	- Blog：<https://qiancheng.me/>
+- （S）石頭剪刀b
+	- Blog：<http://blog.caidingke.net/>
+	- Github：<https://github.com/challengeof>
+- （S）时与光
+	- Github：<https://gitee.com/bitprince>
+- （T）鐡
+	- Blog：<https://www.timbotetsu.com/blog/>
+	- Github：<https://github.com/timbotetsu>
+- （T）太阳C²
+	- Blog：<http://prettylife.top/>
+- （W）泥瓦匠
+	- Blog：<https://www.bysocket.com/>
+- （W）悟空
+	- Blog：<http://blog.csdn.net/u010475041>
+- （X）小柒
+	- Blog：<https://blog.52itstyle.com>
+- （Y）阳光灿烂，动物凶猛
+	- Blog：<http://yijianbo.github.io/>
+- （Y）依山慕雪
+	- Blog：<https://imsense.site/>
+	- Github：<https://github.com/lslvxy>
+- （Y）Yonah-潇
+	- Blog：<http://blog.xiaohansong.com/>
+- （Y）云何应住
+	- Blog：<http://oceanz.cc/>
+	- Github：<https://github.com/jiayeee>
+- （Z）周立
+	- Blog：<http://www.itmuch.com/>
+	- Github：<http://github.com/eacdy>
+- （Y）YouMeek
+	- Blog：<http://www.YouMeek.com>
+	- Github：<https://github.com/judasn>
+- （Z）翟永超
+	- Blog：<http://blog.didispace.com>
+	- Github：<https://github.com/dyc87112>
+
+
+
+
