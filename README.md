@@ -151,6 +151,8 @@
 - （Z）翟永超
 	- Blog：<http://blog.didispace.com>
 	- Github：<https://github.com/dyc87112>
+- （Z）只为追寻
+	- Github：<https://github.com/OnlyForSearch>
 
 
 
