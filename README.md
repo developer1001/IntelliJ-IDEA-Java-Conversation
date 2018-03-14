@@ -42,6 +42,7 @@
 
 - （B）**班纳睿**
 	- Github：<https://github.com/binarywang>
+	- Gitee：<https://gitee.com/binary>
 	- Blog：<http://www.binarywang.com>
 - （B）**不听**
 	- Github：<https://github.com/YiiGuxing>
