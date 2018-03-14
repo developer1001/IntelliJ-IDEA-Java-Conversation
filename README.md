@@ -84,6 +84,8 @@
 	- Github：<https://github.com/cjuexuan>
 - （K）kerr
 	- Github：<https://github.com/hepin1989>
+- （L）William Leung
+	- Github：<https://github.com/lwr>
 - （L）Lindp
 	- Github：<https://github.com/Lindp>
 - （M）漠然
@@ -117,8 +119,11 @@
 	- Github：<https://github.com/timbotetsu>
 - （T）太阳C²
 	- Blog：<http://prettylife.top/>
+- （V）vic
+	- Github：<https://github.com/FuYung>
 - （W）泥瓦匠
 	- Blog：<https://www.bysocket.com/>
+	- Github：<https://github.com/JeffLi1993>
 - （W）悟空
 	- Blog：<http://blog.csdn.net/u010475041>
 - （X）小柒
