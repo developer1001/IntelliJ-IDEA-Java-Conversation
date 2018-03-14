@@ -120,6 +120,7 @@
 - （T）太阳C²
 	- Blog：<http://prettylife.top/>
 - （V）vic
+	- Blog：<https://my.oschina.net/fuyung>
 	- Github：<https://github.com/FuYung>
 - （W）泥瓦匠
 	- Blog：<https://www.bysocket.com/>
