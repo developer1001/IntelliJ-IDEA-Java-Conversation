@@ -64,6 +64,8 @@
 	- Gitee：<https://gitee.com/houjinxin>
 - （C）Cherish life
 	- Github：<https://github.com/zhangdihong>
+- （C）陈袁
+	- Blog：<http://www.cyblogs.com/>
 - （D）嘟嘟MD
 	- Blog：<http://tengj.top/>
 	- Github：<https://github.com/tengj>
@@ -82,6 +84,8 @@
 	- Github：<http://github.com/guxiangfly>
 - （J）叫我老陈行了吧
 	- Github：<https://github.com/cjuexuan>
+- （J）景b
+	- Blog：<http://jingb.info/>
 - （K）kerr
 	- Github：<https://github.com/hepin1989>
 - （L）William Leung
