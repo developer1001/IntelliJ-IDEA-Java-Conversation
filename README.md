@@ -140,6 +140,9 @@
 	- Blog：<http://blog.csdn.net/u010475041>
 - （X）**小柒**
 	- Blog：<https://blog.52itstyle.com>
+- （X）**笑忘书人**
+	- Blog：<http://www.maqianzu.com>
+	- Github：<https://github.com/JetBrainZP>
 - （Y）**阳光灿烂，动物凶猛**
 	- Blog：<http://yijianbo.github.io/>
 - （Y）**依山慕雪**
