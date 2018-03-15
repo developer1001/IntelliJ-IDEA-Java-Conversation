@@ -68,6 +68,9 @@
 	- Github：<https://github.com/zhangdihong>
 - （C）**陈袁**
 	- Blog：<http://www.cyblogs.com/>
+- （C）**crossoverjie**
+	- Blog：<https://crossoverjie.top/>
+	- Github：<https://github.com/crossoverJie>
 - （D）**嘟嘟MD**
 	- Blog：<http://tengj.top/>
 	- Github：<https://github.com/tengj>
