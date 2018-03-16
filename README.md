@@ -113,14 +113,14 @@
 	- Github：<https://github.com/liyang8>
 - （M）**MrRobot**
 	- Blog：<http://chen-shang.github.io>
-- （M）**rememberber**
-	- Github：<https://github.com/rememberber>
 - （N）**南筏**
 	- Blog：<https://my.oschina.net/u/3081965/blog>
 - （P）**平凡的世界**
 	- Github：<https://github.com/ztx1491>
 - （Q）**千橙**
 	- Blog：<https://qiancheng.me/>
+- （R）**RememBerBer**
+	- Github：<https://github.com/rememberber>
 - （S）**石頭剪刀b**
 	- Blog：<http://blog.caidingke.net/>
 	- Github：<https://github.com/challengeof>
