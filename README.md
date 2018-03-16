@@ -114,6 +114,8 @@
 	- Github：<https://github.com/liyang8>
 - （M）**MrRobot**
 	- Blog：<http://chen-shang.github.io>
+- （M）**rememberber**
+	- Github：<https://github.com/rememberber>
 - （N）**南筏**
 	- Blog：<https://my.oschina.net/u/3081965/blog>
 - （P）**平凡的世界**
@@ -158,7 +160,7 @@
 	- Github：<http://github.com/eacdy>
 - （Y）**YouMeek**
 	- Blog：<http://YouMeek.com>
-	- Blog：<http://GitNavi.com>
+	- Love：<http://GitNavi.com>
 	- Github：<https://github.com/judasn>
 - （Z）**翟永超**
 	- Blog：<http://blog.didispace.com>
