@@ -113,6 +113,9 @@
 	- Github：<https://github.com/liyang8>
 - （M）**MrRobot**
 	- Blog：<http://chen-shang.github.io>
+- （M）**mrbird**
+	- Blog：<https://mrbird.cc/>
+	- Github：<https://github.com/wuyouzhuguli>
 - （N）**南筏**
 	- Blog：<https://my.oschina.net/u/3081965/blog>
 - （P）**平凡的世界**
