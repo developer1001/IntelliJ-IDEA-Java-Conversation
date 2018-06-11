@@ -92,6 +92,9 @@
 	- Blog：<http://jingb.info/>
 - （K）**kerr**
 	- Github：<https://github.com/hepin1989>
+- （K）**KL**
+	- Blog：<http://www.kailing.pub>
+	- Gitee：<https://gitee.com/kailing>
 - （L）**William Leung**
 	- Github：<https://github.com/lwr>
 - （L）**Lindp**
